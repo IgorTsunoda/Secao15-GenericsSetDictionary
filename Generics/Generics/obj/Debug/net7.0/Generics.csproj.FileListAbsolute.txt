@@ -1,0 +1,15 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\bin\Debug\net7.0\Generics.exe
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\bin\Debug\net7.0\Generics.deps.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\bin\Debug\net7.0\Generics.runtimeconfig.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\bin\Debug\net7.0\Generics.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\bin\Debug\net7.0\Generics.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\obj\Debug\net7.0\Generics.csproj.AssemblyReference.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\obj\Debug\net7.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\obj\Debug\net7.0\Generics.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\obj\Debug\net7.0\Generics.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\obj\Debug\net7.0\Generics.csproj.CoreCompileInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\obj\Debug\net7.0\Generics.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\obj\Debug\net7.0\refint\Generics.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\obj\Debug\net7.0\Generics.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\obj\Debug\net7.0\Generics.genruntimeconfig.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Generics\Generics\obj\Debug\net7.0\ref\Generics.dll

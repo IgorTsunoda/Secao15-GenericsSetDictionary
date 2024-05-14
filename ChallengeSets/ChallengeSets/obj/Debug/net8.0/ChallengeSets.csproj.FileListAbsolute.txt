@@ -1,0 +1,15 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\bin\Debug\net8.0\ChallengeSets.exe
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\bin\Debug\net8.0\ChallengeSets.deps.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\bin\Debug\net8.0\ChallengeSets.runtimeconfig.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\bin\Debug\net8.0\ChallengeSets.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\bin\Debug\net8.0\ChallengeSets.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\obj\Debug\net8.0\ChallengeSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\obj\Debug\net8.0\ChallengeSets.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\obj\Debug\net8.0\ChallengeSets.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\obj\Debug\net8.0\ChallengeSets.csproj.CoreCompileInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\obj\Debug\net8.0\ChallengeSets.sourcelink.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\obj\Debug\net8.0\ChallengeSets.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\obj\Debug\net8.0\refint\ChallengeSets.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\obj\Debug\net8.0\ChallengeSets.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\obj\Debug\net8.0\ChallengeSets.genruntimeconfig.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\ChallengeSets\ChallengeSets\obj\Debug\net8.0\ref\ChallengeSets.dll

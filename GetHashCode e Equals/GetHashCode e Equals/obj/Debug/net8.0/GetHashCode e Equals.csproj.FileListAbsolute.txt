@@ -1,0 +1,14 @@
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\net8.0\GetHashCode e Equals.exe
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\net8.0\GetHashCode e Equals.deps.json
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\net8.0\GetHashCode e Equals.runtimeconfig.json
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\net8.0\GetHashCode e Equals.dll
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\net8.0\GetHashCode e Equals.pdb
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net8.0\GetHashCode e Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net8.0\GetHashCode e Equals.AssemblyInfoInputs.cache
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net8.0\GetHashCode e Equals.AssemblyInfo.cs
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net8.0\GetHashCode e Equals.csproj.CoreCompileInputs.cache
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net8.0\GetHashCode e Equals.dll
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net8.0\refint\GetHashCode e Equals.dll
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net8.0\GetHashCode e Equals.pdb
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net8.0\GetHashCode e Equals.genruntimeconfig.cache
+C:\MMIS\04 - UNISO\5º SEMESTRE\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net8.0\ref\GetHashCode e Equals.dll

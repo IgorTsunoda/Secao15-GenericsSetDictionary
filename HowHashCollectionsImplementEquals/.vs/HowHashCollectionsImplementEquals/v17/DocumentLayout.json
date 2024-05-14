@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao15-GenericsSetDictionary\\HowHashCollectionsImplementEquals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA76C28E-BC9A-4FB1-93A8-027F50082C8F}|HowHashCollectionsImplementEquals\\HowHashCollectionsImplementEquals.csproj|c:\\mmis\\01 - cursos\\udemy\\c#\\secao15-genericssetdictionary\\howhashcollectionsimplementequals\\howhashcollectionsimplementequals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA76C28E-BC9A-4FB1-93A8-027F50082C8F}|HowHashCollectionsImplementEquals\\HowHashCollectionsImplementEquals.csproj|solutionrelative:howhashcollectionsimplementequals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA76C28E-BC9A-4FB1-93A8-027F50082C8F}|HowHashCollectionsImplementEquals\\HowHashCollectionsImplementEquals.csproj|c:\\mmis\\01 - cursos\\udemy\\c#\\secao15-genericssetdictionary\\howhashcollectionsimplementequals\\howhashcollectionsimplementequals\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA76C28E-BC9A-4FB1-93A8-027F50082C8F}|HowHashCollectionsImplementEquals\\HowHashCollectionsImplementEquals.csproj|solutionrelative:howhashcollectionsimplementequals\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA76C28E-BC9A-4FB1-93A8-027F50082C8F}|HowHashCollectionsImplementEquals\\HowHashCollectionsImplementEquals.csproj|c:\\mmis\\01 - cursos\\udemy\\c#\\secao15-genericssetdictionary\\howhashcollectionsimplementequals\\howhashcollectionsimplementequals\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA76C28E-BC9A-4FB1-93A8-027F50082C8F}|HowHashCollectionsImplementEquals\\HowHashCollectionsImplementEquals.csproj|solutionrelative:howhashcollectionsimplementequals\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao15-GenericsSetDictionary\\HowHashCollectionsImplementEquals\\HowHashCollectionsImplementEquals\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "HowHashCollectionsImplementEquals\\Entities\\Product.cs",
+              "ToolTip": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao15-GenericsSetDictionary\\HowHashCollectionsImplementEquals\\HowHashCollectionsImplementEquals\\Entities\\Product.cs",
+              "RelativeToolTip": "HowHashCollectionsImplementEquals\\Entities\\Product.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:06:13.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao15-GenericsSetDictionary\\HowHashCollectionsImplementEquals\\HowHashCollectionsImplementEquals\\Entities\\Point.cs",
+              "RelativeDocumentMoniker": "HowHashCollectionsImplementEquals\\Entities\\Point.cs",
+              "ToolTip": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao15-GenericsSetDictionary\\HowHashCollectionsImplementEquals\\HowHashCollectionsImplementEquals\\Entities\\Point.cs",
+              "RelativeToolTip": "HowHashCollectionsImplementEquals\\Entities\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:04:21.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao15-GenericsSetDictionary\\HowHashCollectionsImplementEquals\\HowHashCollectionsImplementEquals\\Program.cs",
+              "RelativeDocumentMoniker": "HowHashCollectionsImplementEquals\\Program.cs",
+              "ToolTip": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao15-GenericsSetDictionary\\HowHashCollectionsImplementEquals\\HowHashCollectionsImplementEquals\\Program.cs",
+              "RelativeToolTip": "HowHashCollectionsImplementEquals\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA6wBwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:58:57.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\bin\Debug\net8.0\HashSetSortedSet.exe
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\bin\Debug\net8.0\HashSetSortedSet.deps.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\bin\Debug\net8.0\HashSetSortedSet.runtimeconfig.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\bin\Debug\net8.0\HashSetSortedSet.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\bin\Debug\net8.0\HashSetSortedSet.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\obj\Debug\net8.0\HashSetSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\obj\Debug\net8.0\HashSetSortedSet.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\obj\Debug\net8.0\HashSetSortedSet.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\obj\Debug\net8.0\HashSetSortedSet.csproj.CoreCompileInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\obj\Debug\net8.0\HashSetSortedSet.sourcelink.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\obj\Debug\net8.0\HashSetSortedSet.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\obj\Debug\net8.0\refint\HashSetSortedSet.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\obj\Debug\net8.0\HashSetSortedSet.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\obj\Debug\net8.0\HashSetSortedSet.genruntimeconfig.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\HashSetSortedSet\HashSetSortedSet\obj\Debug\net8.0\ref\HashSetSortedSet.dll

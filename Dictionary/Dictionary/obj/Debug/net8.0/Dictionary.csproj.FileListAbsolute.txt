@@ -1,0 +1,15 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.exe
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.sourcelink.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\Dictionary\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll

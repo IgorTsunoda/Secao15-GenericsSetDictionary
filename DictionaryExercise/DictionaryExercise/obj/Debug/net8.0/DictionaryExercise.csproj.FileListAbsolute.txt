@@ -1,0 +1,15 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.csproj.CoreCompileInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.sourcelink.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\bin\Debug\net8.0\DictionaryExercise.exe
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\bin\Debug\net8.0\DictionaryExercise.deps.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\bin\Debug\net8.0\DictionaryExercise.runtimeconfig.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\bin\Debug\net8.0\DictionaryExercise.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\bin\Debug\net8.0\DictionaryExercise.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\obj\Debug\net8.0\refint\DictionaryExercise.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.genruntimeconfig.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao15-GenericsSetDictionary\DictionaryExercise\DictionaryExercise\obj\Debug\net8.0\ref\DictionaryExercise.dll
